@@ -143,4 +143,4 @@ The long-term goal is to make this repository a personal working memory layer fo
 ## Maintainer
 
 Lin Ziyang
-Email: [REDACTED](mailto:REDACTED)
+Email: [linzy@impcas.ac.cn](mailto:linzy@impcas.ac.cn)
